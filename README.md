@@ -13,6 +13,8 @@ Torsdag: Der er en del script / jsp filer - ved godt det er lidt øv og rodet,
 
 Fredag: Deployet på min droplet (via travis) med følgende link:
 
+https://leafmight.dk/rest-jpa-devops-starter/api/xxx/all
+
 
 Mangler:
 Der mangler et par test, jeg kunne f.eks. ikke få getmoviebyid-test til at virke da mine id bliver ved med at skifte (har lavet en halv løsning, men jeg har ikke haft tid til at teste det).
