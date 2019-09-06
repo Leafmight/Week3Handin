@@ -23,3 +23,4 @@ Der mangler et par test, jeg kunne f.eks. ikke få getmoviebyid-test til at virk
 Der mangler hele opgaven omkring fetch, der har jeg dog leget lidt med fetch i Movie opgaven som var opgave til fredag. 
 
 
+TRAVIS: https://api.travis-ci.org/v3/job/581662464/log.txt$
